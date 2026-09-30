@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="SHUVANKAR SAMANTA - Web3 &amp; Blockchain Developer"/>
+  <img width="650" src="assets/banner.jpg" alt="SHUVANKAR SAMANTA - GitHub The Place Where I Fork"/>
 </p>
 
 <p align="center">
