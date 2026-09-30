@@ -1,13 +1,19 @@
 <p align="center">
-  <img width="650" src="assets/banner.jpg" alt="GitHub - THE PLACE WHERE I FORK"/>
+  <img src="assets/banner.svg" width="100%" alt="SHUVANKAR SAMANTA - Web3 &amp; Blockchain Developer"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Web3+%26+Blockchain+Developer;Smart+Contract+Engineer;Building+Decentralized+Applications;Solidity+%E2%80%A2+Rust+%E2%80%A2+TypeScript;Passionate+About+Open+Networks+%26+DeFi;" />
 </p>
 
-## 🎯 About Me
+<!-- About Me Section with Retro Pixel Headers & Monospace Typography (Inspired by Pratham Harer) -->
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="Who I Am - What I Do - Vision - Beyond Code" />
+</p>
 
+<br>
+
+<!-- 2-Column Code Dossier + Aesthetic Coding Visual (Inspired by Sairaj Patil) -->
 <table>
 <tr>
 <td width="58%" valign="top">
