@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="650" src="assets/banner.jpg" alt="SHUVANKAR SAMANTA - GitHub The Place Where I Fork"/>
+  <img src="assets/name.svg" width="650" alt="SHUVANKAR SAMANTA"/>
+</p>
+
+<p align="center">
+  <img width="650" src="assets/banner.jpg" alt="GitHub - THE PLACE WHERE I FORK"/>
 </p>
 
 <p align="center">
@@ -13,50 +17,9 @@
 
 <br>
 
-<!-- 2-Column Code Dossier + Aesthetic Coding Visual (Inspired by Sairaj Patil) -->
-<table>
-<tr>
-<td width="58%" valign="top">
-
-```typescript
-const shuvankar = {
-    role: "Web3 & Blockchain Developer",
-    location: "Kharagpur, India 🇮🇳",
-
-    building: [
-        "Smart Contracts",
-        "Decentralized Applications (dApps)",
-        "DeFi Protocols"
-    ],
-
-    learning: [
-        "Zero-Knowledge Proofs",
-        "Soroban Smart Contracts",
-        "System Architecture"
-    ],
-
-    tech: {
-        contracts: ["Solidity", "Rust (Soroban)"],
-        frontend: ["React", "Next.js", "Tailwind"],
-        web3: ["Ethers.js", "Web3.js", "Hardhat"],
-        tools: ["Docker", "Git", "Linux"]
-    }
-};
-```
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</td>
-
-<td width="42%" align="center">
-
-<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 <br>
 

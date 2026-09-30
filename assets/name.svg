@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="60">
+  <style>
+    .name-text {
+      font-family: 'Courier New', Courier, 'Lucida Console', monospace;
+      font-size: 42px;
+      font-weight: 900;
+      letter-spacing: 4px;
+      fill: #0f172a;
+    }
+    @media (prefers-color-scheme: dark) {
+      .name-text {
+        fill: #ffffff;
+      }
+    }
+  </style>
+  <text x="50%" y="44" text-anchor="middle" class="name-text">
+    SHUVANKAR SAMANTA
+  </text>
+</svg>
